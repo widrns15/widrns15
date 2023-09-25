@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header" />
 
 ### Hi Welcome, i'm SeongIl Kang 👋
 I dream of a front-end engineer full of ideas 🔥
@@ -68,4 +68,4 @@ I dream of a front-end engineer full of ideas 🔥
 [![widrns15's GitHub stats](https://github-readme-stats.vercel.app/api?username=widrns15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/widrns15/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widrns15&layout=compact&theme=algolia)](https://github.com/widrns15/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
