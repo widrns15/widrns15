@@ -15,6 +15,9 @@ I dream of a front-end engineer full of ideas 🔥
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![amazon%20AWS](https://img.shields.io/badge/AWS-EC912D.svg?style=for-the-badge&logo=amazon%20AWS&logoColor=white)
 
+![shopify](https://img.shields.io/badge/shopify-%95BF47.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-3399CC.svg?style=for-the-badge&logo=Liquid%20AWS&logoColor=white)
+
 
 <br/>
 
